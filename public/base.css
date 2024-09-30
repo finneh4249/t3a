@@ -43,8 +43,3 @@ body {
   background-color: var(--clr-neutral-a10);
   font-family: sans-serif;
 }
-
-section{
-  margin-top: 1rem;
-  width: 95%;
-}
